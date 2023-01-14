@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icon_close.png</file>
+        <file>icon_hide.png</file>
+        <file>serveImg.png</file>
+    </qresource>
+</RCC>
